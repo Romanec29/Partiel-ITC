@@ -1,0 +1,121 @@
+* {
+	box-sizing: border-box;
+}
+
+.titre {
+    color :white;
+    font-size: 80px;
+    font-family: 'Comic';
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	background-color: #181D3E
+}
+
+
+.imageMaison{
+    width: 21%;
+		padding: 0px;
+		    margin-right: 4%;
+			    margin-left: 1%;
+							border: solid 2px #181D3E;
+}
+
+.imageSalon{
+    width: 21%;
+		padding: 0px;
+		    margin-right: 3%;
+						border: solid 2px #181D3E;
+}
+
+.imageChambre{
+    width: 21%;
+		padding: 0px;
+		    margin-right: 4%;
+						border: solid 2px #181D3E;
+}
+
+.imageJardin{
+    width: 21%;
+		padding: 0px;
+		    margin-left: 3%;
+			border: solid 2px #181D3E;
+}
+
+.ville{
+    color :black;
+    font-size: 24px;
+    font-family: 'Commissioner', 'Montserrat';
+    display: flex;
+}
+
+.part1{
+			    margin-left: 26%;
+float: left;
+    font-size: 24px;
+	display: inline-block;
+}
+
+.part2{
+			    margin-left: 13%;
+  text-align: center;
+    font-size: 24px;
+		display: inline-block;
+
+}
+
+.part3{
+		line-height: -1.8;
+			    margin-right: 26%;
+ float: right;
+    font-size: 24px;
+	display: inline-block;
+}
+
+.part4{
+			    margin-left: 10%;
+float: left;
+    font-size: 24px;
+	display: inline-block;
+}
+
+.part5{
+			    margin-left: 10%;
+  text-align: center;
+    font-size: 24px;
+		display: inline-block;
+
+}
+
+.part6{
+			    margin-right: 26%;
+ float: right;
+    font-size: 24px;
+	display: inline-block;
+}
+
+.part7{
+	padding: 0px;
+			    margin-left: 3%;
+text-align : center;
+    font-size: 14px;
+	display: flex;
+}
+
+.part8{
+	padding: 0px;
+			    margin-left: 35%;
+  text-align: center;
+    font-size: 16px;
+		display: flex;
+
+}
+
+.part9{
+	padding: 0px;
+			    margin-right: 26%;
+ float: right;
+    font-size: 24px;
+	display: inline-block;
+}
